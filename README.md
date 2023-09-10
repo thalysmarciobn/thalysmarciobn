@@ -2,8 +2,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/810004618481893381)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thalysmarcio/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalysmarciobn&langs_count=8&card_width=350px&custom_title=Linguagens%20mais%20Utilizadas&layout=compact)
-
 <p align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,dotnet,cs,cpp,js,typescript,java,kotlin,py,php,symfony,laravel,electron,lua,css,sass,tailwind,windicss,html,bootstrap,vue,vite,webpack,mysql,postgres,mongodb,sqlite,ps,git&perline="/>
+    <img align="center" src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,dotnet,cs,cpp,js,typescript,java,kotlin,py,php,symfony,laravel,electron,lua,css,sass,tailwind,windicss,html,bootstrap,vue,vite,webpack,mysql,postgres,mongodb,sqlite,ps,git"/>
 </p>
