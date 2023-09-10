@@ -1,6 +1,9 @@
 <p align="center">
-    <a href="https://github.com/thalysmarciobn">
-        <img align="center" width="100%" height=200 src="https://readme-streak.vercel.app/?user=thalysmarciobn&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+    <a href="https://github.com/stasadance">
+        <img align="center" width="52%" src="https://readme-stats-five-omega.vercel.app/api?username=thalysmarciobn&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&hide_title=true&ring_color=00b0f4&icon_color=00b0f4" />
+    </a>
+    <a href="https://github.com/stasadance">
+        <img align="center" width="46%" src="https://readme-streak.vercel.app/?user=thalysmarciobn&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b0f4&fire=00b0f4&currStreakLabel=00b0f4" />
     </a>
 </p>
 
