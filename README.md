@@ -21,5 +21,5 @@
 
 
 <p align="center">
-    <img width="100%" align="center" src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,dotnet,cs,cpp,js,typescript,java,kotlin,py,php,symfony,laravel,electron,lua,css,sass,tailwind,windicss,html,bootstrap,vue,vite,webpack,mysql,postgres,mongodb,sqlite,ps,git"/>
+    <img width="100%" align="center" src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,dotnet,cs,cpp,js,typescript,java,kotlin,py,php,symfony,laravel,electron,lua,css,sass,tailwind,windicss,html,bootstrap,vue,vite,webpack,mysql,postgres,mongodb,sqlite,ps"/>
 </p>
