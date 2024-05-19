@@ -1,4 +1,13 @@
 <p align="center">
+    <a href="https://github.com/auroralumina">
+        <img align="center" width="20%" src="https://raw.githubusercontent.com/AuroraLumina/.github/main/images/aurora.svg" />
+    </a>
+    <center>
+        Criador do micro framework AuroraLumina
+    </center>
+</p>
+
+<p align="center">
     <a href="https://github.com/stasadance">
         <img align="center" width="52%" src="https://readme-stats-five-omega.vercel.app/api?username=thalysmarciobn&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&hide_title=true&ring_color=00b0f4&icon_color=00b0f4" />
     </a>
