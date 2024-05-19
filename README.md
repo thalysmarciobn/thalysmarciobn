@@ -1,10 +1,8 @@
-<p align="center">
+<p align="center" align="center">
     <a href="https://github.com/auroralumina">
         <img align="center" width="20%" src="https://raw.githubusercontent.com/AuroraLumina/.github/main/images/aurora.svg" />
     </a>
-    <center>
-        Criador do micro framework AuroraLumina
-    </center>
+    Criador do micro framework AuroraLumina
 </p>
 
 <p align="center">
