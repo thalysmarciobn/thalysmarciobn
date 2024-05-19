@@ -2,6 +2,8 @@
     <a href="https://github.com/auroralumina">
         <img align="center" width="20%" src="https://raw.githubusercontent.com/AuroraLumina/.github/main/images/aurora.svg" />
     </a>
+</p>
+<p align="center" align="center">
     Criador do micro framework AuroraLumina
 </p>
 
