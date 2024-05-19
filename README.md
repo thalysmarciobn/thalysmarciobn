@@ -1,19 +1,11 @@
-<p align="center" align="center">
+<p align="center">
     <a href="https://github.com/auroralumina">
         <img align="center" width="20%" src="https://raw.githubusercontent.com/AuroraLumina/.github/main/images/aurora.svg" />
     </a>
 </p>
-<p align="center" align="center">
-    Criador do micro framework AuroraLumina
-</p>
 
 <p align="center">
-    <a href="https://github.com/stasadance">
-        <img align="center" width="52%" src="https://readme-stats-five-omega.vercel.app/api?username=thalysmarciobn&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&hide_title=true&ring_color=00b0f4&icon_color=00b0f4" />
-    </a>
-    <a href="https://github.com/stasadance">
-        <img align="center" width="46%" src="https://readme-streak.vercel.app/?user=thalysmarciobn&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b0f4&fire=00b0f4&currStreakLabel=00b0f4" />
-    </a>
+Criador do micro framework AuroraLumina
 </p>
 
 <p align="center">
@@ -25,6 +17,15 @@
     </a>
     <a href="https://www.instagram.com/thalysmarcio/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/stasadance">
+        <img align="center" width="52%" src="https://readme-stats-five-omega.vercel.app/api?username=thalysmarciobn&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&hide_title=true&ring_color=00b0f4&icon_color=00b0f4" />
+    </a>
+    <a href="https://github.com/stasadance">
+        <img align="center" width="46%" src="https://readme-streak.vercel.app/?user=thalysmarciobn&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b0f4&fire=00b0f4&currStreakLabel=00b0f4" />
     </a>
 </p>
 
