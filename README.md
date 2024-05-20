@@ -31,5 +31,5 @@ Criador do micro framework AuroraLumina
 
 
 <p align="center">
-    <img width="100%" align="center" src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,dotnet,cs,cpp,js,typescript,java,kotlin,py,php,symfony,laravel,electron,lua,css,sass,tailwind,windicss,html,bootstrap,vue,vite,webpack,mysql,postgres,mongodb,sqlite,ps"/>
+    <img width="100%" align="center" src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,dotnet,cs,cpp,js,typescript,java,kotlin,py,php,electron,lua,sass,tailwind,windicss,bootstrap,vue,vite,mysql,postgres,mongodb"/>
 </p>
