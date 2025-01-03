@@ -21,11 +21,6 @@ Criador do micro framework AuroraLumina
 </p>
 
 
-<p align="center">
-    <img width="100%" align="center" src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,dotnet,cs,cpp,typescript,java,kotlin,py,php,electron,lua,sass,tailwind,bootstrap,vue,mysql,postgres,mongodb"/>
-</p>
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thalysmarciobn&theme=transparent)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thalysmarciobn&theme=transparent)
