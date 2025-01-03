@@ -9,13 +9,13 @@ Criador do micro framework AuroraLumina
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/thalysmarcio/">
+    <a href="https://www.linkedin.com/in/thalysmarcio/" style="text-decoration: none">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://discordapp.com/users/810004618481893381">
+    <a href="https://discordapp.com/users/810004618481893381" style="text-decoration: none">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
-    <a href="https://www.instagram.com/thalysmarcio/">
+    <a href="https://www.instagram.com/thalysmarcio/" style="text-decoration: none">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
 </p>
