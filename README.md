@@ -35,3 +35,5 @@ Criador do micro framework AuroraLumina
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thalysmarciobn&theme=transparent)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thalysmarciobn&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thalysmarciobn&theme=transparent&utcOffset=8)
