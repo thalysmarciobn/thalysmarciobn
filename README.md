@@ -16,8 +16,6 @@ Sou um desenvolvedor de software apaixonado por aprender e compartilhar conhecim
 - 👯 Procurando colaborar em projetos de código aberto com impacto significativo.
 - 🤔 Em busca de ajuda com projetos avançados de machine learning.
 - 💬 Pergunte-me sobre desenvolvimento web, serviços em nuvem e código aberto.
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fato curioso: Adoro fazer trilhas e explorar novos lugares.
 
 ## 🛠️ Tecnologias & Ferramentas
 - Linguagens: JavaScript, Python, Java, C++
