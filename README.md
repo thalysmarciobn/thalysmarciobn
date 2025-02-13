@@ -18,9 +18,9 @@ Sou um desenvolvedor de software apaixonado por aprender e compartilhar conhecim
 - 💬 Pergunte-me sobre desenvolvimento web, serviços em nuvem e código aberto.
 
 ## 🛠️ Tecnologias & Ferramentas
-- Linguagens: JavaScript, Python, Java, C++
+- Linguagens: C#, Python, Java, PHP
 - Frontend: React, Angular, Vue.js
-- Backend: Node.js, Django, Spring Boot
+- Backend: ASP.NET, Spring Boot
 - Bancos de Dados: MySQL, PostgreSQL, MongoDB
 - DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
 - Nuvem: AWS, Azure, Google Cloud
