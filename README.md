@@ -1,21 +1,34 @@
+<div align="center">
+  <a href="https://github.com/auroralumina">
+    <img src="https://raw.githubusercontent.com/AuroraLumina/.github/main/images/aurora.svg" width="100" />
+  </a>
+  <br />
+  <sub><b>AuroraLumina</b></sub>
+</div>
 
-<a href="https://github.com/auroralumina">
-    <img align="center" width="20%" src="https://raw.githubusercontent.com/AuroraLumina/.github/main/images/aurora.svg" />
-</a>
+# Olá, eu sou o Thalys Marcio 👋
 
-Criador do micro framework AuroraLumina
+Sou um desenvolvedor de software apaixonado por aprender e compartilhar conhecimento. Gosto de explorar novas tecnologias e contribuir com código aberto.
 
-<a href="https://www.linkedin.com/in/thalysmarcio/" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://discordapp.com/users/810004618481893381" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-<a href="https://www.instagram.com/thalysmarcio/" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-</a>
+## 🚀 Projetos Atuais
+- 🔭 Melhorando habilidades em computação em nuvem e DevOps.
+- 🌱 Aprendendo Kubernetes e técnicas avançadas de Docker.
+- 👯 Procurando colaborar em projetos de código aberto com impacto significativo.
+- 🤔 Em busca de ajuda com projetos avançados de machine learning.
+- 💬 Pergunte-me sobre desenvolvimento web, serviços em nuvem e código aberto.
+- 📫 Contato: [thalysmarciobn@example.com](mailto:thalysmarciobn@example.com)
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fato curioso: Adoro fazer trilhas e explorar novos lugares.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thalysmarciobn&theme=transparent)
+## 🛠️ Tecnologias & Ferramentas
+- Linguagens: JavaScript, Python, Java, C++
+- Frontend: React, Angular, Vue.js
+- Backend: Node.js, Django, Spring Boot
+- Bancos de Dados: MySQL, PostgreSQL, MongoDB
+- DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
+- Nuvem: AWS, Azure, Google Cloud
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thalysmarciobn&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thalysmarciobn&theme=transparent&utcOffset=8)
+## 🔗 Conecte-se Comigo
+- [Twitter](https://twitter.com/thalysmarciobn)
+- [GitHub](https://github.com/thalysmarciobn)
+``` ▋
