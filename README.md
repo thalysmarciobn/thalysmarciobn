@@ -10,7 +10,6 @@
 
 Sou um desenvolvedor de software apaixonado por aprender e compartilhar conhecimento. Gosto de explorar novas tecnologias e contribuir com código aberto.
 
-## 🚀 Projetos Atuais
 - 🔭 Melhorando habilidades em computação em nuvem e DevOps.
 - 🌱 Aprendendo Kubernetes e técnicas avançadas de Docker.
 - 👯 Procurando colaborar em projetos de código aberto com impacto significativo.
