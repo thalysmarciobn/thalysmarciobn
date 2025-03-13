@@ -14,16 +14,14 @@ Sou um desenvolvedor de software apaixonado por aprender e compartilhar conhecim
 - 🔭 Melhorando habilidades em computação em nuvem e DevOps.
 - 🌱 Aprendendo Kubernetes e técnicas avançadas de Docker.
 - 👯 Procurando colaborar em projetos de código aberto com impacto significativo.
-- 🤔 Em busca de ajuda com projetos avançados de machine learning.
-- 💬 Pergunte-me sobre desenvolvimento web, serviços em nuvem e código aberto.
 
 ## 🛠️ Tecnologias & Ferramentas
 - Linguagens: C#, Python, Java, PHP
-- Frontend: React, Angular, Vue.js
+- Frontend: React, Vue.js
 - Backend: ASP.NET, Spring Boot
 - Bancos de Dados: MySQL, PostgreSQL, MongoDB
-- DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
-- Nuvem: AWS, Azure, Google Cloud
+- DevOps: Docker, Kubernetes, GitHub Actions
+- Nuvem: AWS, Azure
 
 ## 🔗 Conecte-se Comigo
 - [Twitter](https://twitter.com/thalysmarciobn)
