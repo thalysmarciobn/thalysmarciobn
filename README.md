@@ -25,5 +25,3 @@ Sou um desenvolvedor de software apaixonado por aprender e compartilhar conhecim
 ## 🔗 Conecte-se Comigo
 - [Twitter](https://twitter.com/thalysmarciobn)
 - [GitHub](https://github.com/thalysmarciobn)
-
-Lipe teve aqui
